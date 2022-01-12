@@ -1,0 +1,10 @@
+C:\Users\ruzickat.04\source\repos\kalkulačka2\kalkulačka2\bin\Debug\kalkulačka2.exe.config
+C:\Users\ruzickat.04\source\repos\kalkulačka2\kalkulačka2\bin\Debug\kalkulačka2.exe
+C:\Users\ruzickat.04\source\repos\kalkulačka2\kalkulačka2\bin\Debug\kalkulačka2.pdb
+C:\Users\ruzickat.04\source\repos\kalkulačka2\kalkulačka2\obj\Debug\kalkulačka2.csprojAssemblyReference.cache
+C:\Users\ruzickat.04\source\repos\kalkulačka2\kalkulačka2\obj\Debug\kalkulačka2.Form1.resources
+C:\Users\ruzickat.04\source\repos\kalkulačka2\kalkulačka2\obj\Debug\kalkulačka2.Properties.Resources.resources
+C:\Users\ruzickat.04\source\repos\kalkulačka2\kalkulačka2\obj\Debug\kalkulačka2.csproj.GenerateResource.cache
+C:\Users\ruzickat.04\source\repos\kalkulačka2\kalkulačka2\obj\Debug\kalkulačka2.csproj.CoreCompileInputs.cache
+C:\Users\ruzickat.04\source\repos\kalkulačka2\kalkulačka2\obj\Debug\kalkulačka2.exe
+C:\Users\ruzickat.04\source\repos\kalkulačka2\kalkulačka2\obj\Debug\kalkulačka2.pdb
